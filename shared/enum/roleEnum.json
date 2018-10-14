@@ -2,8 +2,6 @@
    "roleEnum": [
     {"v": "ROLE_ADMIN", "n":  "Admin"},
     {"v": "ROLE_USER", "n":  "User"},
-    {"v": "ROLE_COLLABORATOR", "n":  "Collaborator"},
-      
   ]
 }
 
